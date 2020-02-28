@@ -17,4 +17,4 @@ The PDF will be populated with the following:
 * Number of users following
 GitHub Repository: https://github.com/jccarlson27/HW-W9-Node-JS-Homework-Developer-Profile-Genorator
 
-![](hw_9_gif)
+![](hw_9_gif.gif)
